@@ -1,0 +1,22 @@
+.dark{
+    background-color: black;
+    color: purple;
+}
+
+.light {
+    background-color: red;
+    color: purple;
+}
+
+#my-purple-paragraph{
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+}
+
+p {
+    color: yellow;
+}
+h1{
+    color: purple;
+    font-family: sans-serif;
+}
